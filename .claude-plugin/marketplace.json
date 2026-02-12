@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "ixbtcom/docs-web-download",
+  "name": "docs-web-download",
   "description": "Download web documentation and convert to markdown",
   "owner": {
     "name": "ixbtcom"
