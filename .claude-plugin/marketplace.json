@@ -13,7 +13,7 @@
       "author": {
         "name": "Mikhail Panyushkin"
       },
-      "source": ".",
+      "source": "./plugins/docs-get-web",
       "category": "productivity",
       "keywords": ["documentation", "web", "scraping", "markdown"]
     }
