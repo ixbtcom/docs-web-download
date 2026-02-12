@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ixbtcom/docs-web-download",
+  "description": "Download web documentation and convert to markdown",
+  "owner": {
+    "name": "ixbtcom"
+  },
+  "plugins": [
+    {
+      "name": "docs-get-web",
+      "description": "Download web documentation from Docusaurus, Timeweb Cloud, GitHub raw and convert to markdown. Batch or single page fetching with configurable source profiles.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mikhail Panyushkin"
+      },
+      "source": ".",
+      "category": "productivity",
+      "keywords": ["documentation", "web", "scraping", "markdown"]
+    }
+  ]
+}
