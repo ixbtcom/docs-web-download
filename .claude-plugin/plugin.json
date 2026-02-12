@@ -1,0 +1,9 @@
+{
+  "name": "docs-get-web",
+  "version": "1.0.0",
+  "description": "Download web documentation from various sources and convert to markdown",
+  "author": {
+    "name": "Mikhail Panyushkin"
+  },
+  "keywords": ["documentation", "web", "scraping", "markdown", "docusaurus", "timeweb"]
+}
